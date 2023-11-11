@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>com.google.code.gson</groupId
+	<artifactId>gson</artifactId
+</dependency>
+```
